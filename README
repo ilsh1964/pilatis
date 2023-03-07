@@ -1,0 +1,6 @@
+## Pilatis Timing
+#### Timing for Pilatis espeak
+
+- sudo apt install espeak
+- sudo cp pilatis.desktop /usr/share/applications/
+- sudo cp pilatis.png /usr/share/icons/hicolor/32x32/apps/pilatis.png

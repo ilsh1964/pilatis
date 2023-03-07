@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name="Pilatis timer"
+Comment=Starts Pilatis training session
+Exec=/home/ilanshavit/Bin/GITHUB/pilatis/start_timer.sh
+Icon=pilatis
+Terminal=true
+Type=Application
+Categories=AudioVideo;Player;Recorder;
+Keywords=Player;
