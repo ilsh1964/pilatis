@@ -1,6 +1,6 @@
 #!/bin/bash
 #sudo apt install espeak
-/home/ilan/Bin/Pilatis/say "Listen listen... 32 minutes... End Practice"
+sleep 2
 espeak -s 115 "Listen listen... Start Practice... "
 sleep 293
 espeak -s 115 "Listen listen... 5 minutes...Listen listen... 5 minutes"

@@ -1,5 +1,6 @@
 #!/bin/bash
 #sudo apt install espeak
+sleep 1
 espeak -s 115 "Test... Test.. Test..."
 sleep 5
 espeak -s 115 "Listen listen... Start Warning"
