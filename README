@@ -4,3 +4,8 @@
 - sudo apt install espeak
 - sudo cp pilatis.desktop /usr/share/applications/
 - sudo cp pilatis.png /usr/share/icons/hicolor/32x32/apps/pilatis.png
+
+#### Create Keyboard shortcut (CTL+ALT+P):
+- gnome-terminal -- bash -c "/home/ilan/Bin/S3/PILATIS/start_timer.sh"
+ 
+ 
